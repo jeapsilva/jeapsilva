@@ -6,8 +6,8 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jesapsilva)
 
 
-![Jéssica Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=jesapsilva&show_icons=true&theme=dark)
-
+![Jéssica Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=jesapsilva&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesapsilva&layout=compact&theme=gruvbox)](https://github.com/jesapsilva/github-readme-stats)
 
 ### Tecnologias que utilizo no cotidiano
 
