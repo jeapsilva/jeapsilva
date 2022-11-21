@@ -25,7 +25,7 @@
 </div><br/>
 
 
-Apaixonada por tecnologia e programação.
+Data Scientist com pós em aplicação para negócios.
 <br>
 Para contactar-me basta enviar e-mail para: jeapsilva@poli.ufrj.br 
 
