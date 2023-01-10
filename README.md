@@ -23,7 +23,7 @@
 </div><br/>
 
 
-Data Scientist com pós em aplicação para negócios.
+Cientista de Dados e Engenheira de Machine Learning com foco em aplicação de negócios.
 <br>
 Para contactar-me basta enviar e-mail para: jeapsilva@poli.ufrj.br 
 
