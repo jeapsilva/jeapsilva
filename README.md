@@ -22,8 +22,5 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />   
 </div><br/>
 
-
-Cientista de Dados e Engenheira de Machine Learning com foco em aplicação de negócios.
 <br>
 Para contactar-me basta enviar e-mail para: jeapsilva@poli.ufrj.br 
-
