@@ -1,4 +1,4 @@
-# Hi 🤚, I'm Jéssica Silva! 
+# Oi 🤚, sou Jéssica Silva! 
 <h3 align="center"> Cientista de Dados e Engenheira de Machine Learning com foco em aplicação na área de negócios.</h3>
 
 - 📝 Escrevo artigos com frequência em [medium.com/jeapsilva](https://medium.com/@jeapsilva)
