@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Machine Learning, Deep Learning e Data Science**
 
-- 📫 Para falar comigo, mande mensagem [LinkedIn](https://www.linkedin.com/in/jessica-aparecida-silva/) 
+- 📫 Para falar comigo, mande mensagem no [LinkedIn](https://www.linkedin.com/in/jessica-aparecida-silva/) 
 
 <h3 align="left">Se conecte comigo em:</h3>
 
