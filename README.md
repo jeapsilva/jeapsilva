@@ -1,13 +1,21 @@
-### Hi I'm Jéssica Silva! 🤚
-<br>
+# Hi 🤚, I'm Jéssica Silva! 
+<h3 align="center"> Cientista de Dados e Engenheira de Machine Learning com foco em aplicação na área de negócios.</h3>
 
+- 📝 Escrevo artigos com frequência em [medium.com/jeapsilva](https://medium.com/@jeapsilva)
+
+- 💬 Me pergunte sobre **Machine Learning, Deep Learning e Data Science**
+
+- 📫 Para falar comigo, mande mensagem [LinkedIn](https://www.linkedin.com/in/jessica-aparecida-silva/) 
+
+<h3 align="left">Se conecte comigo em:</h3>
+<p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-aparecida-silva/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jeapsilva.com/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jesapsilva)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeapsilva)
+</p>
 
-
-![Jéssica Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=jesapsilva&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesapsilva&layout=compact&theme=transparent)
+![Jéssica Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=jeapsilva&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeapsilva&layout=compact&theme=transparent)
 
 ### Tecnologias que utilizo no cotidiano
 
