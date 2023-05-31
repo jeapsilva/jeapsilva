@@ -3,7 +3,7 @@
 
 - 📝 Escrevo artigos com frequência em [medium.com/jeapsilva](https://medium.com/@jeapsilva)
 
-- 💬 Me pergunte sobre **Machine Learning, Deep Learning e Data Science**
+- 💬 Me pergunte sobre **Machine Learning, Deep Learning, Data Science e MLOps**
 
 - 📫 Para falar comigo, mande mensagem no [LinkedIn](https://www.linkedin.com/in/jessica-aparecida-silva/) 
 
@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-aparecida-silva/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jeapsilva.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeapsilva)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jessicaiatalks/)
 
 ### Tecnologias que utilizo no cotidiano
 
@@ -22,6 +23,9 @@
     <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />   
     <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     <img align="center" alt="pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />  
+</div><br/>
+
+<div style="display: inline_block"><br/>
     <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />  
     <img align="center" alt="keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
     <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />  
